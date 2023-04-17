@@ -25,3 +25,10 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 2. Serán **bazanoj** (_miembros de la base_) todos aquellos miembros que sean inducidos como tales y que no obtengan una clasificación de rango superior. El procedimiento de inducción como bazano será regulado por Ley Ordinaria, pero no podrá ocurrir con una estancia inferior a los QUINCE (15) DÍAS NATURALES desde el momento de registro de la persona en la Fremdula Registrejo. Los miembros de esta clase serán considerados ciudadanos. El estatus de bazano no es revocable sin una condena previa.
 3. Serán **valoranoj** (_miembros de valor_) todos aquellos miembros inducidos como tales, así como los tres Konsilistoj de forma vitalicia. Los procedimientos de inducción como valorano y revocación de este estatus serán regulados por Ley Ordinaria. Los miembros de esta clase serán considerados ciudadanos.
 4. No es posible pertenecer a más de una clase, simultáneamente.
+
+## Artículo VI: Del poder legislativo
+
+1. El poder legislativo reside en las dos asambleas: la VALORANA KUNVENO y la BAZANA KUNVENO, compuestas por la totalidad de los VALORANOJ y los BAZANOJ, respectivamente.
+2. La VALORANA KUNVENO tiene la facultad de proponer Leyes Ordinarias, que deben ser aprobadas por mayoría simple de sus integrantes en un plazo máximo de veinticuatro horas.
+3. La BAZANA KUNVENO tiene la facultad de ratificar o rechazar las Leyes Ordinarias propuestas por la VALORANA KUNVENO, mediante una votación con mayoría simple de sus integrantes también en el plazo máximo de veinticuatro horas. De salir rechazada ésta volverá a debatirse en la VALORANA KUNVENO y tendrá que alcanzar la mayoría absoluta para finalmente quedar aprobada.
+4. El GVIDEGANTO tiene la facultad de proponer Leyes Ordinarias a la VALORANA KUNVENO, así como la facultad de vetar leyes aprobadas. El veto del GVIDEGANTO podrá ser supercedido por una mayoría cualificada del 75% de los integrantes en ambas asambleas.
