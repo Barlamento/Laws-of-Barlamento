@@ -26,6 +26,26 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 3. Serán **valoranoj** (_miembros de valor_) todos aquellos miembros inducidos como tales, así como los tres Konsilistoj de forma vitalicia. Los procedimientos de inducción como valorano y revocación de este estatus serán regulados por Ley Ordinaria. Los miembros de esta clase serán considerados ciudadanos.
 4. No es posible pertenecer a más de una clase, simultáneamente.
 
+## Artículo V: De la figura del Anokratestro
+
+### Sección V-A: De la elección y sucesión del Anokratestro
+
+1. El ANOKRATESTRO es el propietario y poder último de la Anocracia.
+2. El ANOKRATESTRO es, de forma vitalicia, Don Iker de MeCuentas, identificado por el handle @IkerMeCuentas en Telegram.
+3. La sucesión al título de ANOKRATESTRO será regulada por Ley Privada de la Casa de Mecuentas, y queda fuera del alcance de la legislación de la Anocracia.
+
+
+### Sección V-B: De los poderes y facultades del Anokratestro
+
+1. El ANOKRATESTRO tiene la facultad de:
+
+* a. Aplicar la Ley de la Anocracia, sujeto a revisión por parte del poder judicial.
+* b. Convocar elecciones extraordinarias para cualquier otro cargo.
+* c. Convocar un KONSTITUCIA KONSILISTARO (_Consejo Constitucional_).
+* d. Suspender las garantías constitucionales y designar un DIKTATORO (_Dictador_).
+* e. Establecer relaciones diplomáticas con otras naciones, entidades, corporaciones, grupos, tribus, etc.
+* f. Cualquier otro poder descrito en otros artículos del presente documento o Leyes Ordinarias.
+
 ## Artículo VI: Del poder legislativo
 
 1. El poder legislativo reside en las dos asambleas: la VALORANA KUNVENO y la BAZANA KUNVENO, compuestas por la totalidad de los VALORANOJ y los BAZANOJ, respectivamente.
