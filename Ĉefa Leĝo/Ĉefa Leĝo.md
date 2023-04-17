@@ -14,6 +14,25 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 
 # Ley Fundamental
 
+## Artículo I: De la soberanía y forma de gobierno
+
+1. **BARLAMENTO** se constituye como una ANOCRACIA SOBERANA Y SERENÍSIMA, fundamentada en la adhesión continuada y voluntaria de sus miembros. Se reconoce el derecho de todos los ciudadanos a participar en el gobierno del mismo, de forma ponderada por sus cualidades y méritos individuales.
+2. El nombre oficial de BARLAMENTO es LA SUVERENA kaj EGE SERENA ANOKRATIA de BARLAMENTO.
+3. La soberanía de BARLAMENTO emana de la propiedad de la Moŝta Sinjoro, la ANOKRATESTRO Iker de Mecuentas.
+
+## Artículo II: De la lengua oficial
+
+1. El Esperanto es la lengua oficial de la SUVERENA kaj EGE SERENA ANOKRATIO de BARLAMENTO. El uso de otras lenguas será regulado por Ley Ordinaria.
+
+## Artículo III: Del territorio
+
+1. BARLAMENTO no reclama para sí territorio físico alguno. Las posesiones bajo la soberanía la ANOCRACIA de BARLAMENTO se limitan al ciberespacio.
+2. El territorio de Barlamento consiste en:
+
+* a. El canal en Telegram con enlace t.me/@Barlamento
+* b. El grupo de Telegram asociado a ese canal.
+* c. El grupo de Matrix con identificador #barlamento:matrix.org
+
 ## Artículo IV: De la membresía
 
 1. Toda persona humana dentro del territorio oficial de **BARLAMENTO** es considerada como **membro** (_Miembro_) . Su presencia continuada y voluntaria dentro del territorio será considerada aceptación implícita de la ĈEFA LEĜO y todas las leyes ordinarias, a las que están sujetos.
