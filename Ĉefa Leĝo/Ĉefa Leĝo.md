@@ -91,3 +91,58 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 
 1. Cualquier VOĈPORTANTO, en la ejecución de sus funciones, puede interponer una apelación al ANOKRATESTRO sobre cualquier acción de un JUĜISTO. El ANOKRATESTRO deberá resolver esta apelación en un periodo máximo de CUARENTA Y OCHO (48) HORAS y podrá revertir la acción del JUĜISTO.
 2. DOS (2) VOĈPORTANTOJ podrán interponer un veto colectivo sobre una acción de un JUĜISTO. Esta acción quedará vetada e inmediatamente revertida. El ANOKRATESTRO deberá resolver este veto colectivo en un periodo máximo de CUARENTA Y OCHO (48) HORAS y podrá sostener o revertir el veto.
+
+## Artículo IX: Del Estado de Crisis y el Diktatoro
+
+1. El Estado de Crisis podrá ser declarado por la VALORANA KUNVENO con mayoría cualificada del 75%; o por el ANOKRATESTRO. En la declaración, se deberá designar un ciudadano como DIKTATORO.
+2. El Estado de Crisis y el mandato del DIKTATORO tendrán una duración de un mes, pasada la cual el DIKTATORO deberá abdicar.
+4. El número de mandatos consecutivos de un DIKTATORO se limita a un mes.
+5. El Estado de Crisis podrá ser prorrogado por la VALORANA KUNVENO con mayoría absoluta; o por el ANOKRATESTRO.
+6. Pasados tres periodos consecutivos de Estado de Crisis el ANOKRATESTRO podrá ser designado como DIKTATORO de forma indefinida, manteniendo asimismo el Estado de Crisis.
+7. Durante el Estado de Crisis, las garantías constitucionales quedan suspendidas y todos los poderes recaen sobre la figura del DIKTATORO.
+
+### Sección IX-A: De los poderes y deberes del Diktatoro
+
+1. Un DIKTATORO legítimamente designado podrá ejercer sus poderes de forma unilateral, con vigencia igual a su mandato. Asímismo, podrá reconfirmar los cambios ejercidos por incumbentes inmediatamente anteriores, extendiendo la vigencia de sus acciones a su mandato:
+
+* a. Suspender o proclamar cualquier Ley de Emergencia, que superceden a las Leyes Ordinarias y tienen una validez igual a su mandato.
+* b. Eliminar mensajes.
+* c. Silenciar, expulsar o limitar a usuarios.
+* d. Anclar mensajes o fijar temas de conversación.
+* e. Editar descripciones.
+* f. Gestionar el territorio.
+
+3. El deber del DIKTATORO consiste en la restauración del orden normal y curso habitual de la actividad del grupo.
+4. El DIKTATORO tiene el deber de abdicar una vez restaurado el orden normal y curso habitual de la actividad del grupo o terminado su mandato.
+
+## Artículo X: De los Registrejoj y el Enskribanto
+
+1. Se mantendrán dos REGISTREJOJ (_Registros_) donde quedarán registrados todos los miembros de la Anocracia, así como su estatus social:
+
+* a. La FREMDULA REGISTREJO (_Registro de Extranjeros_) donde se registrarán todos aquellos miembros sin ciudadanía y con categoría de FREMDULO. Se incluirá la fecha de ingreso, registro, su nombre, identificador, y categoría de FREMDULO.
+* b. La CIVITANA REGISTREJO (_Registro de Ciudadanos_) donde se registrarán todos aquellos miembros con ciudadanía. Se incluirá la fecha de ingreso, registro como FREMDULO (si aplica), registro con el estatus de CIVITANO, su nombre, identificador, y categoría (BAZANO o VALORANO).
+
+2. En ambos registros se mantendrá una breve relación de condenas previas, de existir.
+3. El cargo encargado del mantenimiento de los REGISTREJOJ es el ENSKRIBANTO (lit. _Inscriptor_).
+4. El ENSKRIBANTO será designado a voluntad por el ANOKRATESTRO.
+
+## Artículo XI: De los derechos reconocidos
+
+1. Se reconoce el derecho a la privacidad y al pseudonimato de sus miembros en los confines de su territorio. Los procedimientos para la protección de este derecho se regularán a través de Leyes Ordinarias.
+2. Se reconoce el derecho a la libertad de expresión, siendo únicamente limitados aquellos comportamientos que alteren el orden normal de conversación. La regulación de este derecho se hará a través de Leyes Ordinarias, con la excepción de todo aquel contenido que ponga en peligro la supervivencia legal de la Anocracia, que queda terminantemente prohibido.
+
+## Artículo XII: Del proceso de enmienda
+
+1. La presente ĈEFA LEĜO podrá ser enmendada.
+2. Las enmiendas consistirán de UNA (1) PROPUESTA de un nuevo artículo, de modificación de un artículo existente, o de derogación de un artículo existente.
+3. Las enmiendas propuestas por los BAZANOJ deberán ser aprobadas por la BAZANA KUNVENO y la VALORANA KUNVENO con una mayoría cualificada del 75%.
+4. Las enmiendas propuestas por los VALORANOJ deberán ser aprobadas por la VALORANA KUNVENO por consenso.
+5. Toda enmienda deberá ser ratificada por el ANOKRATESTRO.
+
+# Anexos
+
+## Anexo 1: Regulación especial de elecciones
+
+1. De no haber candidatos válidos para una elección, los límites de mandatos consecutivos podrán ser suspendidos para la realización en de una Elección Especial, con dispensa del ANOKRATESTRO.
+2. De no haber candidatos válidos tras la suspensión del límite de mandatos consecutivos, el incumbente del cargo será designado por el ANOKRATESTRO.
+3. De darse un empate en una elección, esta se repetirá. De llegarse a tres elecciones consecutivas empatadas, el incumbente del cargo será designado por el ANOKRATESTRO.
