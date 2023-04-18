@@ -1,6 +1,6 @@
 # Introducción y Preámbulo
 
-Barlamento, a XX de Abril, año 2023 de la Era Común;
+Barlamento, a 18 de Abril, año 2023 de la Era Común;
 
 SABIENDO que **BARLAMENTO** se constituyó como grupo formal de debate el 1 de Junio del año 2016 de la Era Común.
 
