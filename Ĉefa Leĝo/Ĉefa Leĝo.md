@@ -70,4 +70,24 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 1. El poder legislativo reside en las dos asambleas: la VALORANA KUNVENO y la BAZANA KUNVENO, compuestas por la totalidad de los VALORANOJ y los BAZANOJ, respectivamente.
 2. La VALORANA KUNVENO tiene la facultad de proponer Leyes Ordinarias, que deben ser aprobadas por mayoría simple de sus integrantes en un plazo máximo de veinticuatro horas.
 3. La BAZANA KUNVENO tiene la facultad de ratificar o rechazar las Leyes Ordinarias propuestas por la VALORANA KUNVENO, mediante una votación con mayoría simple de sus integrantes también en el plazo máximo de veinticuatro horas. De salir rechazada ésta volverá a debatirse en la VALORANA KUNVENO y tendrá que alcanzar la mayoría absoluta para finalmente quedar aprobada.
-4. El GVIDEGANTO tiene la facultad de proponer Leyes Ordinarias a la VALORANA KUNVENO, así como la facultad de vetar leyes aprobadas. El veto del GVIDEGANTO podrá ser supercedido por una mayoría cualificada del 75% de los integrantes en ambas asambleas.
+4. El ANOKRATESTRO tiene la facultad de proponer Leyes Ordinarias a la VALORANA KUNVENO, así como la facultad de vetar leyes aprobadas. El veto del ANOKRATESTRO podrá ser supercedido por una mayoría cualificada del 75% de los integrantes en ambas asambleas.
+
+## Artículo VII: Del poder judicial
+
+1. El poder judicial reside en los DOS (2) JUĜISTOJ (_Jueces_), que son elegidos por la VALORANA KUNVENO cada DOS (2) MESES de forma simultánea, mediante una votación con mayoría simple de sus integrantes.
+2. Los jueces tienen la función de hacer cumplir las leyes del grupo, sancionar a los infractores y resolver los conflictos que surjan entre los miembros de la Anocracia.
+3. Los JUĜISTOJ tienen la facultad de eliminar mensajes; silenciar, expulsar o limitar a usuarios; anclar mensajes o fijar temas de conversación; editar descripciones y, en líneas generales, moderar y gestionar el territorio; siempre de acuerdo a la legislación vigente.
+4. El mandato del JUĜISTO es de DOS (2) MESES. El número de mandatos consecutivos máximos de un JUĜISTO es de UN (1) MANDATO.
+5. Un JUĜISTO tiene la potestad de vetar las acciones de cualquier otro JUĜISTO.
+
+## Artículo VIII: Del poder vocal
+
+1. El poder vocal reside en los DOS (2) VOĈPORTANTOJ (lit. _Portavoces/Portavotos_) que son elegidos por la BAZANA KUNVENO cada UN (1) MES de forma rotativa, mediante una votación con mayoría simple de sus integrantes.
+2. Los VOĈPORTANTOJ tienen el deber de defender los derechos e intereses de los plebeyos
+3. Los VOĈPORTANTOJ tienen el poder de apelar las acciones tomadas por los JUĜISTOJ sobre los BAZANOJ de forma individual; de interponer vetos colectivos a las acciones tomadas por los JUĜISTOJ que consideren injustas o perjudiciales para los BAZANOJ, hasta que estas sean revisadas por el ANOKRATESTRO; y de convocar referéndums para consultar al pueblo sobre cuestiones importantes para la Anocracia.
+4. El mandato del VOĈPORTANTO es de DOS (2) MESES. El número de mandatos consecutivos máximos de un VOĈPORTANTO es de UN (1) MANDATO.
+
+### Sección VIII-A: Del proceso de apelación
+
+1. Cualquier VOĈPORTANTO, en la ejecución de sus funciones, puede interponer una apelación al ANOKRATESTRO sobre cualquier acción de un JUĜISTO. El ANOKRATESTRO deberá resolver esta apelación en un periodo máximo de CUARENTA Y OCHO (48) HORAS y podrá revertir la acción del JUĜISTO.
+2. DOS (2) VOĈPORTANTOJ podrán interponer un veto colectivo sobre una acción de un JUĜISTO. Esta acción quedará vetada e inmediatamente revertida. El ANOKRATESTRO deberá resolver este veto colectivo en un periodo máximo de CUARENTA Y OCHO (48) HORAS y podrá sostener o revertir el veto.
