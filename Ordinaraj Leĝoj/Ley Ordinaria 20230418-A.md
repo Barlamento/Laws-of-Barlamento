@@ -1,4 +1,4 @@
-# Ley Ordinaria 20230417-A: Ley Fundacional de los Valoranoj
+# Ley Ordinaria 20230418-A: Ley Fundacional de los Valoranoj
 
 Esta ley regula la naturaleza y privilegios de la clase social de los Valoranoj.
 
