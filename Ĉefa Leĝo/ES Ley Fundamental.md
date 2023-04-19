@@ -70,7 +70,7 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 1. El poder legislativo reside en las dos asambleas: la VALORANA KUNVENO y la BAZANA KUNVENO, compuestas por la totalidad de los VALORANOJ y los BAZANOJ, respectivamente.
 2. La VALORANA KUNVENO tiene la facultad de proponer Leyes Ordinarias, que deben ser aprobadas por mayoría simple de sus integrantes en un plazo máximo de veinticuatro horas.
 3. La BAZANA KUNVENO tiene la facultad de ratificar o rechazar las Leyes Ordinarias propuestas por la VALORANA KUNVENO, mediante una votación con mayoría simple de sus integrantes también en el plazo máximo de veinticuatro horas. De salir rechazada ésta volverá a debatirse en la VALORANA KUNVENO y tendrá que alcanzar la mayoría absoluta para finalmente quedar aprobada.
-4. El ANOKRATESTRO tiene la facultad de proponer Leyes Ordinarias a la VALORANA KUNVENO, así como la facultad de vetar leyes aprobadas. El veto del ANOKRATESTRO podrá ser supercedido por una mayoría cualificada del 75% de los integrantes en ambas asambleas.
+4. El ANOKRATESTRO tiene la facultad de proponer Leyes Ordinarias a la VALORANA KUNVENO, así como la facultad de vetar leyes aprobadas. El veto del ANOKRATESTRO podrá ser supercedido por una mayoría cualificada de 2/3 de los integrantes en ambas asambleas.
 
 ## Artículo VII: Del poder judicial
 
@@ -94,7 +94,7 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 
 ## Artículo IX: Del Estado de Crisis y el Diktatoro
 
-1. El Estado de Crisis podrá ser declarado por la VALORANA KUNVENO con mayoría cualificada del 75%; o por el ANOKRATESTRO. En la declaración, se deberá designar un ciudadano como DIKTATORO.
+1. El Estado de Crisis podrá ser declarado por la VALORANA KUNVENO con mayoría cualificada de 2/3; o por el ANOKRATESTRO. En la declaración, se deberá designar un ciudadano como DIKTATORO.
 2. El Estado de Crisis y el mandato del DIKTATORO tendrán una duración de un mes, pasada la cual el DIKTATORO deberá abdicar.
 4. El número de mandatos consecutivos de un DIKTATORO se limita a un mes.
 5. El Estado de Crisis podrá ser prorrogado por la VALORANA KUNVENO con mayoría absoluta; o por el ANOKRATESTRO.
@@ -125,6 +125,8 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 2. En ambos registros se mantendrá una breve relación de condenas previas, de existir.
 3. El cargo encargado del mantenimiento de los REGISTREJOJ es el ENSKRIBANTO (lit. _Inscriptor_).
 4. El ENSKRIBANTO será designado a voluntad por el ANOKRATESTRO.
+5. Mensualmente el ENSKRIBANTO realizará una REGISTREJA ALVOKO. Sólo aquellas personas que respondan a esta llamada tendrán su estatus actualizado en el REGISTREJO correspondiente y podrán ejercer plenamente sus derechos en su KUNVENO correspondiente.
+6. Cualquier miembro no registrado correctamente podrá pedir una actualización de su estatus registral en cualquier momento, a partir de la cual podrá ejercer de forma plena sus derechos como si hubiese respondido a la REGISTREJA ALVOKO.
 
 ## Artículo XI: De los derechos reconocidos
 
@@ -135,8 +137,8 @@ PROCLAMO y OTORGO la siguiente LEY FUNDAMENTAL.
 
 1. La presente ĈEFA LEĜO podrá ser enmendada.
 2. Las enmiendas consistirán de UNA (1) PROPUESTA de un nuevo artículo, de modificación de un artículo existente, o de derogación de un artículo existente.
-3. Las enmiendas propuestas por los BAZANOJ deberán ser aprobadas por la BAZANA KUNVENO y la VALORANA KUNVENO con una mayoría cualificada del 75%.
-4. Las enmiendas propuestas por los VALORANOJ deberán ser aprobadas por la VALORANA KUNVENO por consenso.
+3. Las enmiendas propuestas por los BAZANOJ deberán ser aprobadas por la BAZANA KUNVENO y la VALORANA KUNVENO con una mayoría cualificada de 2/3.
+4. Las enmiendas propuestas por los VALORANOJ deberán ser aprobadas por la VALORANA KUNVENO por mayoría cualificada de 2/3.
 5. Toda enmienda deberá ser ratificada por el ANOKRATESTRO.
 
 # Anexos
